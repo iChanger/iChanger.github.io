@@ -15,7 +15,8 @@ img.profile {
 .bgfill {
   margin: 0;
   padding: 0;
-  background: url(../image.jpg) no-repeat;
+  background: url(../image.jpg);
+  //background: url(../image.jpg) no-repeat;
   background-size: auto;
   //background-size: cover;
 }
