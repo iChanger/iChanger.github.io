@@ -1,0 +1,35 @@
+h5.nav {
+  color: #e0e0e0;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+
+h5.nav:hover {
+  color: blue;
+}
+
+img.profile {
+  border-radius: 50%;
+}
+
+.bgfill {
+  margin: 0;
+  padding: 0;
+  background: url(../image.jpg) no-repeat;
+  background-size: auto;
+  //background-size: cover;
+}
+
+.sect {
+  width: 80%;
+  background: rgba(255, 255, 255, 0.3);
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+}
+
+.sect h1 {
+  letter-spacing: 4px;
+  font-weight: 100;
+}
